@@ -28,13 +28,13 @@ header, main {
 
 main {
   max-width: 600px;
-  background-color: rgb(113, 155, 243);
+  background-color: rgb(14, 74, 216);
   border-radius: 10px;
 }
 
 .status ul li {
   display: inline-block;
-  text-shadow: 0 0 0.5em rgb(0, 0, 0), 0 0 0.5em rgb(0, 0, 0), 0 0 0.5em rgb(0, 0, 0);
+  text-shadow: 0 0 0.5em rgb(0, 0, 0), 0 0 0.5em rgb(0, 0, 0), 0 0 0.5em rgb(0, 0, 0), 0 0 0.5em rgb(0, 0, 0);
   font-size: 30px;
   padding-left: 15px;
   padding-right: 15px;
